@@ -1,3 +1,17 @@
+## Deprecated
+
+This package is now deprecated, since I have moved all the functionality into the packages
+
+* [bootprint](https://npmjs.com/bootprint)
+* [bootprint-json-schema](https://npmjs.com/bootprint-json-schema)
+* [bootprint-swagger](https://npmjs.com/bootprint-swagger)
+
+The documentation of these packages, but the functionality is the same.
+Look at the example at [bootprint-swagger](https://npmjs.com/bootprint-swagger) to transform your
+swagger-definitions.
+
+
+
 
 ## Motivation
 
